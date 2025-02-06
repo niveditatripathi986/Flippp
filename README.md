@@ -20,7 +20,6 @@ Camera Integration: Android Native Libraries
 
 
 Run the application:
-
 npx react-native start
 npx react-native run-android  # For Android
 npx react-native run-ios      # For iOS (Mac required)
