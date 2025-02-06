@@ -11,7 +11,7 @@ Proof of Delivery: Capture and upload images as delivery confirmation (using And
 Theme & Language Selection: Choose between light/dark themes and multiple languages.
 Dummy APIs: Integrated for fetching and managing data.
 
-Tech Stack
+Tech Stack:
 Frontend: React Native
 Backend: Dummy APIs
 State Management: Redux / Context API
